@@ -10,7 +10,7 @@ Analytics allow you to quantify the effects of making a change to your strategy,
 
 ![image](https://user-images.githubusercontent.com/55909772/196022018-3da1a9b2-45b8-4acd-96f4-dcff6b00fb20.png)
 
-![image](https://user-images.githubusercontent.com/55909772/196022022-7fb7bf22-c8c8-4d46-9c17-6b30cc0cd379.png)
+![image](https://user-images.githubusercontent.com/55909772/196022067-a00a751c-7367-47a1-becb-130cd09122ee.png)
 
 ![image](https://user-images.githubusercontent.com/55909772/196022031-c8cb4f3f-5bf1-4ec1-ae3b-84123dbe31b6.png)
 
